@@ -124,8 +124,6 @@ class HomeScreen extends StatelessWidget {
                   ],
                 ),
               ),
-
-              //TODO: 나머지 UI 코드 작성
             ],
           ),
         ),
